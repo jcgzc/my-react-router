@@ -1,9 +1,11 @@
 {
+  "homepage": "https://jcgzc.github.io/my-react-router",
   "name": "my-react-router",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "gh-pages": "^6.3.0",
     "my-react-router": "file:",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
